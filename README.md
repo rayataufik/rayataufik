@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Hello, my name is Muhammad Raya Taufik. Born in mid-2003s.
+I have known programming since 2017 during school. Started
+to focus on my career as a software engineer from 2018. Enjoy
+discussing technology and software engineering with others.
+
 ###
 
 <div align="center">
