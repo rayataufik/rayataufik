@@ -30,5 +30,5 @@ discussing technology and software engineering with others.**
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rayataufik&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rayataufik&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
